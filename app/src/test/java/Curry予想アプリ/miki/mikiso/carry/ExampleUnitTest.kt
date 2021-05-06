@@ -1,4 +1,4 @@
-package app.miki.mikiso.carry
+package Curry予想アプリ.miki.mikiso.carry
 
 import org.junit.Test
 

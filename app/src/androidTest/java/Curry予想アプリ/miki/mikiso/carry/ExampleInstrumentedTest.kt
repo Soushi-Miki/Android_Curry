@@ -1,4 +1,4 @@
-package app.miki.mikiso.carry
+package Curry予想アプリ.miki.mikiso.carry
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

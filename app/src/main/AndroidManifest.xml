@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="app.miki.mikiso.carry">
+    package="Curry予想アプリ.miki.mikiso.carry">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Carry予想アプリ">
-        <activity android:name=".MainActivity">
+        <activity android:name="Curry予想アプリ.miki.mikiso.carry.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

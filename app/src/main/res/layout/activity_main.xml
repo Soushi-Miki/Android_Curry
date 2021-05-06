@@ -64,6 +64,7 @@
                     android:layout_weight="1"
                     android:gravity="bottom|center"
                     android:text="大山"
+                    android:textColor="#FFD600"
                     android:textSize="20sp" />
 
                 <TextView
@@ -73,6 +74,7 @@
                     android:layout_weight="1"
                     android:gravity="center|top"
                     android:text="カレー"
+                    android:textColor="#FF6D00"
                     android:textSize="20sp" />
             </LinearLayout>
 
@@ -90,6 +92,7 @@
                     android:layout_weight="1"
                     android:gravity="bottom|center"
                     android:text="よそえました!"
+                    android:textColor="#64DD17"
                     android:textSize="20sp" />
 
                 <androidx.appcompat.widget.AppCompatButton
@@ -97,7 +100,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:background="#A8A3A3"
+                    android:background="#D31717"
                     android:gravity="center|top"
                     android:onClick="serveFood"
                     android:text="Button"
